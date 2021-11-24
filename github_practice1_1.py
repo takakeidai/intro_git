@@ -12,6 +12,9 @@ def git_additional_function_2():
 def git_additional_function_3():
     print('this function is added at the fourth commit')
 
+def git_additional_function_4():
+    print('this function is added at the fifth commit')
+
 if __name__ == '__main__':
     git_1()
 
