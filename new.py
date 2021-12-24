@@ -1,1 +1,1 @@
-# this is newです。
+# this is newです。そうです。
